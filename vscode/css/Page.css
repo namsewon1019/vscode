@@ -1,0 +1,229 @@
+@font-face {
+    font-family: 'IM_Hyemin-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Bold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin : 150px;
+}
+
+.school:hover {
+    background-color: #fff; color : pink;
+}
+
+.header {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+}
+
+p {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.groom {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.naver {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.homepage {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.youtube {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.github {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.translate {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.kahoot {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.webtoon {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.replit {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.baekjoon {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.codeup {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.instagram {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.codeforces {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.point {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.classroom {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.facebook {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.coupang {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.translate {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.tetris {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.self {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.yes24 {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.book {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.shopping {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+}
+
+.netflix {
+        font-family: 'IM_Hyemin-Bold';
+        font-size: 20px;
+        background-color: #fff;
+        outline : 0px;
+        border : 0px;
+    
+}
+
+.moeni {
+    font-family: 'IM_Hyemin-Bold';
+    font-size: 20px;
+    background-color: #fff;
+    outline : 0px;
+    border : 0px;
+
+}

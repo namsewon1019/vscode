@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body { 
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin : 300px auto;
+            }
+    </style>
+</head>
+    <link href="static/style.css" rel="stylesheet" type="text/css">
+    
+<body>
+   <div class="container">
+    <h1 class="header">LED on Off</h1>
+   <div class="main">
+       <button onclick="led_on()">LED ON</button>
+       <button onclick="led_off()">LED OFF</button>
+   </div>
+   <div class="result">
+       <input type="text">
+   </div>
+</div>
+   <script
+       src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js">
+   </script>
+   <script type="text/javascript">
+        function led_on() {
+            var result = document.querySelector(".result");
+            var data = "<h3>LED ON<h3>";
+            result.innerHTML = data;
+
+            $.ajax({
+                type : 'GET',
+                url : '/led/on',
+                success : function(res) {
+                    alert(res)
+                }
+            })
+        }
+</script>
+</body>
+</html>

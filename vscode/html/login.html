@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin : 200px;
+            padding-left: 400px;
+        }
+
+        .searchid {
+            background-color: white;
+            border: none;
+        }
+
+        .searchid:hover {
+            color: blue;
+        }
+
+        .searchpw {
+            background-color: white;
+            border: none;
+        }
+
+        .searchpw:hover {
+            color: blue;
+        }
+
+    </style>
+</head>
+<body>
+        <h2>로그인</h2>
+        <br>
+        <br>
+        <lebel for="user-id"></lebel>
+        <lebel><input class="idbox" type="text" id="user-id" placeholder="아이디를 입력" name="id"></lebel><br>
+        <lebel for="user-pwd"></lebel>
+        <lebel><input type="password" id="user-pwd" placeholder="비밀번호 입력" name="pw"></lebel><br><br>
+        <lebel><input type="checkbox" value="id_s">아이디 저장</lebel><br><br>
+        <div id="buttons">
+            <input class="login" type="button" onclick="logindone()" value="로그인">
+            <input class="searchid" type="button" value="아이디 찾기">
+            <input class="searchpw" type="button" value="비밀번호 찾기">
+        </div>
+    </div>
+    <script>
+        function logindone() {
+            location.href="file:///C:/Users/sw2102/Desktop/html/pjtest02.html"
+        }
+    </script>
+</body>
+</html>
